@@ -11,4 +11,6 @@ To understand stakeholders needs and their perception about robotics-assisted re
 - caregivers of adult patients
 - caregivers of children
 
-The repository contains two folders.
+The repository contains two folders:
+- In the <code>operator_surveys_analysis</code> folder, you can find Python scripts to analyse the results of the questionnaires dedicated to healthcare professionals.
+- In the <code>patients_survey_analysis</code> folder, you can find Python scripts to analyse the results of the questionnaires dedicated to adult patients, caregivers of adults and caregivers of children.
